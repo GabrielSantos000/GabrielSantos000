@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, meu nome é Gabriel!👋🏻
 
-<!--
-**GabrielSantos000/GabrielSantos000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-santos-da-silva-2353b421a/)
 
-Here are some ideas to get you started:
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSantos000&show_icons=true&theme=dracula&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso atualmente:
+
+<div style="display: inline_block>"></br>
+
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+</div></br>
+
+Quero melhorar a EDUCAÇÃO com a COMPUTAÇÃO!
+
+### CONTATOS
+
+📧 gabrielsantosdasilva022@gmail.com
+
+📱(75)99248-3990
+
+
+
